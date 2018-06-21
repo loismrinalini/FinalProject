@@ -1,0 +1,6 @@
+--2018-05-17 03:54:59--  https://poloniex.com/public?command=returnChartData
+Resolving poloniex.com (poloniex.com)... 104.20.13.48, 104.20.12.48
+Connecting to poloniex.com (poloniex.com)|104.20.13.48|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2018-05-17 03:55:00 ERROR 403: Forbidden.
+
